@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я Маргарита! 👋
 
-<!--
-**margaritasamohval777-maker/margaritasamohval777-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
+- 🎓 Студент Минского государственного колледжа цифровых технологий
+- 💻 Изучаю Python,Java, C++
+- 🌱 Сейчас я работаю над улучшением своих навыков в Git и GitHub
 
-Here are some ideas to get you started:
+## Мои навыки
+- Python
+- Git
+- Java
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Связаться со мной
+- Telegram: yurestr
+- margaritasamohval777@gmail.com
